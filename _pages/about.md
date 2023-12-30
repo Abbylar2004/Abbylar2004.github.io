@@ -26,6 +26,12 @@ Using R studios, I have analysed risk profiles of different insurance lines of b
 
 Professional Experience
 ======
-My summer internship in 2023 as an actuarial intern at Standard Club (part of NorthStandard) actively honed my skills in real-world situations.Here, I embraced the use of powerful R packages:
-  * ggplot2: I mastered the art of visualisation, transforming complex claims and premiums data into compelling and informative visuals.
-  * Data.tables: I streamlined data management with data.tables, optimising my ability to handle large datasets. 
+At my internship, I immersed myself in the intricate world of the insurance industry, broadening my expertise across various facets crucial to actuarial work. I delved into the estimation of outstanding claims and reserve amounts, utilizing advanced techniques like claim development triangles, Bornhuetter Ferguson methodology, and the loss ratio method. My proficiency extended to discerning between paid claims, incurred claims, and IBNR (IBNER and IBNYR) claims, contributing to comprehensive Actuarial Reserves estimates. Further, I grasped the dynamics of deductibles, GLMs, GAMs, and leveraged advanced modeling techniques such as XG random Forest Models, utilizing R coding with data.tables and ggplot2 for efficient data exploration, cleaning, manipulation, and analysis of massive datasets comprising thousands to millions of rows.
+
+Moreover, my tenure involved exposure to diverse segments within insurance, encompassing Pricing, Capital Modeling, and Reserving. In Pricing, I adeptly manipulated claims data using data.table and ggplot2 packages in R, mastering various functions including data table creation, sorting, grouping, updating, merging, pivoting, and plot creation for visualization and analysis purposes. Using
+ * ggplot2: I mastered the art of visualisation, transforming complex claims and premiums data into compelling and informative visuals.
+  * Data.tables: I streamlined data management with data.tables, optimising my ability to handle large datasets. For instance, I was able to sieve through millions of rows of data within seconds in R rather than minutes if MS Excel was used.
+
+I gained insight into Capital Modeling through ResQ interface usage, understanding how market, credit, and operational risks contribute to reserve and premium estimations. In Reserving, I updated critical values, crafted informative summaries, and utilized Excel tools like treemaps and pivot tables for data visualization and analysis.
+
+Additionally, my engagement extended beyond technical realms. I collaborated on a presentation about graduate programs alongside interns from different departments, enhancing my teamwork and presentation skills. Regular participation in team meetings provided a comprehensive understanding of team objectives, fostering a holistic perspective on the organizational goals and strategies
